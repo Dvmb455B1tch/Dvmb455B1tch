@@ -30,18 +30,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvmb455B1tch&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dvmb455B1tch&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dvmb455B1tch&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dvmb455B1tch&theme=react-dark&hide_border=true&radius=8" alt="Activity Graph" />
-</p>
-
 ---
 
 ### Tech
