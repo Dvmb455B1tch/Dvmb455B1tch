@@ -14,10 +14,3 @@
 - 🌱 I’m learning: To code mostly — a bit of this and that; I know C tho
 - ⚡ Fun fact: When I was young, I was poor, but after years of hard work, I'm no longer young.
 
----
-
-### Metrics Dashboard (auto-updates daily)
-<!-- This SVG includes: Contributions calendar (3D), Most-used languages, and a row of mastered technologies & topics (icons). -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dvmb455B1tch/Dvmb455B1tch/main/metrics.svg" alt="GitHub Metrics" />
-</p>
