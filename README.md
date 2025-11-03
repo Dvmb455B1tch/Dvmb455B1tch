@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Nobody 👋</h1>
 
-https://github.com/user-attachments/assets/ab345dfa-1329-44f6-a207-8a578d4dc8c2
-
 <p align="center">
   <a href="https://github.com/Dvmb455B1tch?tab=followers">
     <img src="https://img.shields.io/github/followers/Dvmb455B1tch?label=Followers&style=for-the-badge" alt="Followers" />
