@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Nobody 👋</h1>
 
-<p align="center">
-
-https://github.com/user-attachments/assets/5b820b33-09a3-4ebb-8ef2-51cf5ddec0de
-
-</p>
+<img src="https://github.com/user-attachments/assets/[your-video-url].mp4" width="100%" alt="Introduction Video"/>
 
 <p align="center">
   <a href="https://github.com/Dvmb455B1tch?tab=followers">
