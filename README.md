@@ -17,4 +17,4 @@
 
 Daily technologies:
 
-![My Skills](https://skillicons.dev/icons?i=lua,bash,vim,neovim,c,cpp,git,shell,linux)
+![My Skills](https://skillicons.dev/icons?i=lua,bash,vim,neovim,c,cpp,git,linux)
