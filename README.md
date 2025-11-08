@@ -10,11 +10,14 @@
   <img src="https://komarev.com/ghpvc/?username=Dvmb455B1tch&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
 
-- 🛠️ I'm working on: Making it through the 42 school (Antananarivo)
-- 🌱 I'm learning: To code mostly — a bit of this and that; I know C tho
+- 🛠️ I'm working on: Making it through the 42 school (Antananarivo)  
+- 🌱 I'm learning: To code mostly — a bit of this and that; I know C tho  
 - ⚡ Fun fact: When I was young, I was poor, but after years of hard work, I'm no longer young.
-
 
 Daily technologies:
 
-![My Skills](https://skillicons.dev/icons?i=lua,bash,vim,neovim,c,cpp,git,linux,make)
+<!-- skillicons row (Makefile isn't available on skillicons) -->
+<img src="https://skillicons.dev/icons?i=lua,bash,vim,neovim,c,cpp,git,linux" alt="My Skills" />
+
+<!-- external Makefile icon (no extra files required) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/make/make-original.svg" alt="Makefile" width="40" height="40" style="vertical-align:middle; margin-left:8px;" />
