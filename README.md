@@ -13,3 +13,8 @@
 - 🛠️ I'm working on: Making it through the 42 school (Antananarivo)
 - 🌱 I'm learning: To code mostly — a bit of this and that; I know C tho
 - ⚡ Fun fact: When I was young, I was poor, but after years of hard work, I'm no longer young.
+
+
+Daily technologies:
+
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,py,spring,postgres,react,nodejs,neovim,figma&perline=3)](https://skillicons.dev)
