@@ -19,5 +19,15 @@ Daily technologies:
 <!-- skillicons row (Makefile isn't available on skillicons) -->
 <img src="https://skillicons.dev/icons?i=lua,bash,vim,neovim,c,cpp,git,linux" alt="My Skills" />
 
-<!-- external Makefile icon (no extra files required) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/make/make-original.svg" alt="Makefile" width="40" height="40" style="vertical-align:middle; margin-left:8px;" />
+<!-- Inline Makefile SVG icon (no extra files, no external CDN). Adjust width/height as desired. -->
+<!-- This inline SVG is placed directly in the README so you don't need any extra files. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 64 64" style="vertical-align:middle; margin-left:8px;">
+  <!-- background rounded square -->
+  <rect width="64" height="64" rx="10" ry="10" fill="#2b2f36"/>
+  <!-- white text "Mk" centered -->
+  <text x="50%" y="55%" text-anchor="middle" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff" dominant-baseline="middle">Mk</text>
+  <!-- small accent bar -->
+  <rect x="8" y="44" width="48" height="4" rx="2" fill="#e06c75" />
+  <!-- accessible title -->
+  <title>Makefile</title>
+</svg>
